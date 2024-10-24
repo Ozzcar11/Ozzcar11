@@ -44,10 +44,10 @@
 ###
 
 <div align="center">
-  <a href="@Cicadll" target="_blank">
+  <a href="https://t.me/Cicadll" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="cicadglll@gmail.com" target="_blank">
+  <a href="mailto:cicadglll@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
