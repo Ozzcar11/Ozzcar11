@@ -33,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ozzcar11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <div align="center">
   <img height="180" src="https://i.pinimg.com/originals/e5/ca/10/e5ca107d261d6e2c1340bcf458983e23.gif"  />
 </div>
