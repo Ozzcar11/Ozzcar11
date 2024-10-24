@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <img height="180" src="https://i.pinimg.com/originals/e5/ca/10/e5ca107d261d6e2c1340bcf458983e23.gif"  />
 </div>
 
